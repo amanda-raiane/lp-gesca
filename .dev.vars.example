@@ -1,0 +1,2 @@
+# Copie para .dev.vars se estiver usando Cloudflare localmente
+GOOGLE_SHEETS_WEBHOOK_URL=https://script.google.com/macros/s/AKfycbw29loV_7Y3V_lI2UH0D-ulYOK33g1gtes7buHwF-SaE3UlvrCEhR98IP-9rlMX7DLk/exec
