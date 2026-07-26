@@ -8,7 +8,6 @@ import atelier from "@/assets/atelier.png";
 import newHq from "@/assets/new-hq.png";
 import placeSetting from "@/assets/place-setting.jpg";
 import luMagalhaes from "@/assets/lu-magalhaes.png";
-import julianaTeixeira from "@/assets/juliana-teixeira.png";
 import lorenaAraujo from "@/assets/lorena.png";
 import henriqueAluno from "@/assets/henrique.png";
 import marianaAluna from "@/assets/mariana.png";
@@ -264,13 +263,6 @@ const schedule = [
 ];
 
 const testimonials = [
-  {
-    quote:
-      "Apoiar o GESCA é participar de um movimento onde cada real investido volta multiplicado em oportunidade real para a nossa região.",
-    name: "Juliana Teixeira",
-    role: "Óticas Wanderley Teixeira",
-    photo: julianaTeixeira,
-  },
   {
     quote:
       "Algumas causas nos tocam. Outras nos convocam. E a construção da sede própria do Instituto Gesca é uma delas. Acredito profundamente no poder de quem dedica a vida a cuidar de pessoas e transformar realidades. Convido você a fazer parte desse sonho. Toda grande transformação começa quando alguém decide estender a mão. Eu acredito. Eu apoio. E espero encontrar você nessa corrente do bem. Porque o futuro que desejamos para a nossa comunidade começa com as escolhas que fazemos hoje.",
